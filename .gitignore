@@ -1,0 +1,8 @@
+*/target/
+
+.settings/
+.factorypath
+.project
+.classpath
+
+HELP.md
