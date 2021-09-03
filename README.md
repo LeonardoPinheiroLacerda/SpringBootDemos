@@ -1,4 +1,4 @@
-for update the heroku repo:
+to update the heroku repo:
 
 git subtree push --prefix 'subfolder' heroku 'branch'
   
